@@ -14,12 +14,9 @@ describe('nconf use()', function () {
         url: 'http://example/config.json',
         callback: (data) => {
           nconf.get('connection-string').should.equal('Data Source=mydb');
-          console.log('wwwwww');
           done();
         }
       });
-      done();
-
-console.log('sdfasdfsf');
+	    done(); 
   });
 });

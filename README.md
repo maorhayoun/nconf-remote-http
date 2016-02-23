@@ -1,6 +1,8 @@
 nconf-remote-http
 ======================
 
+[![Build Status](https://travis-ci.org/maorhayoun/nconf-remote-http.svg?branch=master)](https://travis-ci.org/maorhayoun/nconf-remote-http)
+
 storage engine extention for serving json configuration files via http/s 
 
 ## Install
