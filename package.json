@@ -4,7 +4,7 @@
   "description": "remote http storage engine for nconf",
   "main": "lib/nconf-remote-http.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha -t 10000"
   },
   "keywords": [
     "nconf",
