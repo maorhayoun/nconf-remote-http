@@ -1,6 +1,6 @@
 {
   "name": "nconf-remote-http",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "remote http storage engine for nconf",
   "main": "lib/nconf-remote-http.js",
   "scripts": {
