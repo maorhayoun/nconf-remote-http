@@ -17,6 +17,7 @@ describe('nconf use()', function () {
           done();
         }
       });
+      done();
 
   });
 });
