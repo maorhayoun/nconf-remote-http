@@ -18,6 +18,7 @@ describe('nconf use()', function () {
           done();
         }
       });
+      done();
 
 console.log('sdfasdfsf');
   });
