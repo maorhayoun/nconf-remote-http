@@ -10,6 +10,10 @@
     "nconf",
     "http"
   ],
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/maorhayoun/nconf-remote-http"
+  },
   "author": "Maor Hayoun <maor.hayun@gmail.com> (https://github.com/maorhayoun)",
   "license": "MIT",
   "dependencies": {
