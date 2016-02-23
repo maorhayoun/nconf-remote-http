@@ -1,6 +1,6 @@
 {
   "name": "nconf-remote-http",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "remote http storage engine for nconf",
   "main": "lib/nconf-remote-http.js",
   "scripts": {
@@ -13,7 +13,8 @@
   "author": "Maor Hayoun <maor.hayun@gmail.com> (https://github.com/maorhayoun)",
   "license": "MIT",
   "dependencies": {
-    "nconf": "^0.8.4"
+    "nconf": "^0.8.4",
+    "sync-request": "^3.0.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
